@@ -1,0 +1,30 @@
+C:\workspace_sgi\RPDinamico\bin\Debug\RPDinamico.exe.config
+C:\workspace_sgi\RPDinamico\bin\Debug\RPDinamico.exe
+C:\workspace_sgi\RPDinamico\bin\Debug\RPDinamico.pdb
+C:\workspace_sgi\RPDinamico\obj\Debug\RPDinamico.csprojResolveAssemblyReference.cache
+C:\workspace_sgi\RPDinamico\obj\Debug\RPDinamico.exe
+C:\workspace_sgi\RPDinamico\obj\Debug\RPDinamico.pdb
+C:\workspace_sgi\RPDinamico\obj\Debug\RPDinamico.RelatorioDinamico.resources
+C:\workspace_sgi\RPDinamico\obj\Debug\RPDinamico.csproj.GenerateResource.Cache
+C:\workspace_sgi\RPDinamico\bin\Debug\Newtonsoft.Json.dll
+C:\workspace_sgi\RPDinamico\bin\Debug\SGIEntity.Business.dll
+C:\workspace_sgi\RPDinamico\bin\Debug\SGIEntity.Data.Entity.dll
+C:\workspace_sgi\RPDinamico\bin\Debug\EntityFramework.dll
+C:\workspace_sgi\RPDinamico\bin\Debug\Controle.dll
+C:\workspace_sgi\RPDinamico\bin\Debug\Classe.dll
+C:\workspace_sgi\RPDinamico\bin\Debug\Controler.dll
+C:\workspace_sgi\RPDinamico\bin\Debug\SGIEntity.Business.pdb
+C:\workspace_sgi\RPDinamico\bin\Debug\Newtonsoft.Json.xml
+C:\workspace_sgi\RPDinamico\bin\Debug\SGIEntity.Data.Entity.pdb
+C:\workspace_sgi\RPDinamico\bin\Debug\EntityFramework.xml
+C:\workspace_sgi\RPDinamico\bin\Debug\Controle.pdb
+C:\workspace_sgi\RPDinamico\bin\Debug\Classe.pdb
+C:\workspace_sgi\RPDinamico\bin\Debug\Controler.pdb
+C:\Users\ti7\Documents\Visual Studio 2012\Projects\TesteInterface\RPDinamico\obj\Debug\RPDinamico.csprojResolveAssemblyReference.cache
+C:\Users\ti7\Documents\Visual Studio 2012\Projects\TesteInterface\RPDinamico\obj\Debug\RPDinamico.exe
+C:\Users\ti7\Documents\Visual Studio 2012\Projects\TesteInterface\RPDinamico\obj\Debug\RPDinamico.pdb
+C:\Users\ti7\Documents\Visual Studio 2012\Projects\TesteInterface\RPDinamico\bin\Debug\RPDinamico.exe.config
+C:\Users\ti7\Documents\Visual Studio 2012\Projects\TesteInterface\RPDinamico\bin\Debug\RPDinamico.exe
+C:\Users\ti7\Documents\Visual Studio 2012\Projects\TesteInterface\RPDinamico\bin\Debug\RPDinamico.pdb
+C:\Users\ti7\Documents\Visual Studio 2012\Projects\TesteInterface\RPDinamico\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ti7\Documents\Visual Studio 2012\Projects\TesteInterface\RPDinamico\bin\Debug\Newtonsoft.Json.xml
